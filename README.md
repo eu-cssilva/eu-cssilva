@@ -94,8 +94,7 @@ src="https://img.shields.io/twitter/follow/eu_cssilva?logo=twitter&style=for-the
     </picture>
   </a>
 
-  <!-- Novo: Ícone da Poosting -->
-  <a href="https://poosting.com/" target="_blank" rel="noreferrer">
+  <a href="https://poosting.com/shared/profile/usuario_id" target="_blank" rel="noreferrer">
     <img src="https://poosting.com.br/wp-content/uploads/2025/01/poosting-logo.png" 
          width="32" height="32" 
          alt="Poosting" title="Poosting Rede Social" />
