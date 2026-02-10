@@ -79,22 +79,7 @@ src="https://img.shields.io/twitter/follow/eu_cssilva?logo=twitter&style=for-the
     </picture>
   </a>
   
-  <a href="http://www.medium.com/eu.cleytonssilva" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
-    </picture>
-  </a>
   
-  <a href="https://www.dev.to/erison_cleyton_7342514910" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" />
-    </picture>
-  </a>
-
  <a href="https://poosting.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/eu-cssilva/eu-cssilva/raw/main/images__1_-removebg-preview.png" 
        width="36" height="36" 
