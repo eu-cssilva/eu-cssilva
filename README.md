@@ -80,7 +80,7 @@ src="https://img.shields.io/twitter/follow/eu_cssilva?logo=twitter&style=for-the
   </a>
   
   
-<a href="https://poosting.com/share/profile/usuario_id" target="_blank" rel="noreferrer">
+<a href="https://poosting.com/shared/profile/usuario_id" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/eu-cssilva/eu-cssilva/main/images__1_-removebg-preview.png" 
        width="36" height="36" 
        style="width:36px; height:36px; object-fit: contain;"
