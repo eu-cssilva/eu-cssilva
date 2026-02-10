@@ -95,7 +95,7 @@ src="https://img.shields.io/twitter/follow/eu_cssilva?logo=twitter&style=for-the
   </a>
 
  <a href="https://poosting.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/eu-cssilva/eu-cssilva/main/images/images__1_-removebg-preview.png" 
+  <img src="https://github.com/eu-cssilva/eu-cssilva/blob/main/images__1_-removebg-preview.png" 
        width="32" height="32" 
        alt="Poosting" title="Poosting Rede Social" />
 </a>
