@@ -47,6 +47,7 @@ Se você está procurando alguém com paciência para ler datasheets, depurar em
 src="https://img.shields.io/github/followers/eu-cssilva?logo=github&style=for-the-badge&color=10b981&labelColor=134e4a" /></a><a href="https://www.x.com/eu_cssilva" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/eu_cssilva?logo=twitter&style=for-the-badge&color=10b981&labelColor=134e4a"
 /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -95,11 +96,10 @@ src="https://img.shields.io/twitter/follow/eu_cssilva?logo=twitter&style=for-the
   </a>
 
  <a href="https://poosting.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/eu-cssilva/eu-cssilva/blob/main/images__1_-removebg-preview.png" 
-       width="32" height="32" 
+  <img src="https://github.com/eu-cssilva/eu-cssilva/raw/main/images__1_-removebg-preview.png" 
+       width="36" height="36" 
        alt="Poosting" title="Poosting Rede Social" />
 </a>
-  
 
 ### Support Me
 
